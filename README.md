@@ -41,3 +41,9 @@ conda activate ./venv2
 ```
 pip install -r requirements.txt
 ```
+
+# Initialize dvc
+
+```
+dvc init
+```
