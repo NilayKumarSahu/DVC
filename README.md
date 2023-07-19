@@ -47,3 +47,13 @@ pip install -r requirements.txt
 ```
 dvc init
 ```
+# create dvc.yaml
+
+```
+touch dvc.yaml
+```
+# run dvc
+
+```
+dvc repro
+```
